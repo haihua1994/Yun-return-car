@@ -54,10 +54,12 @@ pre {
 }
 .navbar-inverse .navbar-brand {
   color: #efefef;
+  display: inline-block;
 }
-.navbar-brand img{
-  height:50px;
-  margin-top: -14px;
+#yf_logo{
+  display: inline-block;
+  position: absolute;
+  top:0;left: 0;
 }
 .navbar-inverse .navbar-nav > li > a {
   color: #e8e8e8;
