@@ -1,0 +1,5 @@
+查看效果的方式
+1.如果你的电脑安装了node，git ,可直接把项目克隆到本地。具体方式如下：
+git clone https://github.com/haihua1994/Yun-return-car.git
+
+2.若果没有安装，可以下载解压查看。
